@@ -27,6 +27,14 @@ dependencies: [
 
 See the [swift-ros2 README](https://github.com/swift-ros2/swift-ros2#readme) for the quick start and the [Swift Package Index page](https://swiftpackageindex.com/swift-ros2/swift-ros2) for API documentation.
 
+## About the logo
+
+<img src="https://raw.githubusercontent.com/swift-ros2/.github/main/assets/avatar.png" alt="The swift-ros2 logo: a navy mynah with an orange beak and wattle, perched on an orange line between two navy circles" width="96" align="left">
+
+The logo is a mynah perched on a piece of a ROS 2 graph: the two navy circles are nodes and the orange line between them is the topic that connects them. A mynah can mimic human speech, and swift-ros2 lets Swift apps speak ROS 2 natively, talking to `rmw_zenoh_cpp` and `rmw_cyclonedds_cpp` peers on the wire without a bridge. A swift is a bird too, so a different bird nods to the language while keeping the mark our own. The artwork uses three flat colors: navy `#22314E`, orange `#F26A2E`, and white.
+
+<br clear="left">
+
 ## Contributing
 
 Issues and pull requests are welcome in each repository. The swift-ros2 packages are licensed under Apache 2.0.
