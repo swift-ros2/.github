@@ -31,7 +31,7 @@ See the [swift-ros2 README](https://github.com/swift-ros2/swift-ros2#readme) for
 
 [![Title slide of "Swift for ROS 2: iPhone, iPad and Mac in your ROS graph"](https://files.speakerdeck.com/presentations/eb9d81fc916145b48cc85e8db4cd3f78/slide_0.jpg)](https://speakerdeck.com/youtalk/swift-for-ros-2-iphone-ipad-and-mac-in-your-ros-graph)
 
-[**Swift for ROS 2: iPhone, iPad and Mac in your ROS graph**](https://speakerdeck.com/youtalk/swift-for-ros-2-iphone-ipad-and-mac-in-your-ros-graph), presented at ROS By-The-Bay on October 22, 2026. Click the slide to view the full deck on Speaker Deck.
+[**Swift for ROS 2: iPhone, iPad and Mac in your ROS graph**](https://speakerdeck.com/youtalk/swift-for-ros-2-iphone-ipad-and-mac-in-your-ros-graph), presented at [ROS By-The-Bay on October 22, 2026](https://www.meetup.com/ros-by-the-bay/events/316984436/). Click the slide to view the full deck on Speaker Deck.
 
 ## About the logo
 
