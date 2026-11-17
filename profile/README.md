@@ -27,6 +27,12 @@ dependencies: [
 
 See the [swift-ros2 README](https://github.com/swift-ros2/swift-ros2#readme) for the quick start and the [Swift Package Index page](https://swiftpackageindex.com/swift-ros2/swift-ros2) for API documentation.
 
+## Talk
+
+[![Title slide of "Swift for ROS 2: iPhone, iPad and Mac in your ROS graph"](https://files.speakerdeck.com/presentations/eb9d81fc916145b48cc85e8db4cd3f78/slide_0.jpg)](https://speakerdeck.com/youtalk/swift-for-ros-2-iphone-ipad-and-mac-in-your-ros-graph)
+
+[**Swift for ROS 2: iPhone, iPad and Mac in your ROS graph**](https://speakerdeck.com/youtalk/swift-for-ros-2-iphone-ipad-and-mac-in-your-ros-graph), presented at ROS By-The-Bay on October 22, 2026. Click the slide to view the full deck on Speaker Deck.
+
 ## About the logo
 
 <img src="https://raw.githubusercontent.com/swift-ros2/.github/main/assets/avatar.png" alt="The swift-ros2 logo: a navy mynah with an orange beak and wattle, perched on an orange line between two navy circles" width="96" align="left">
